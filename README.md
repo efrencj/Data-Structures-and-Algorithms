@@ -1,7 +1,7 @@
 # Data-Structures-and-Algorithms
 # Introduction
 
-This repository contains all the **practical assignments** and the **exam** from my **Data Structures and Algorithms (EDA)** course. It was a challenging yet rewarding subject that required a great deal of effort to fully grasp.
+This repository contains all the **practical assignments** and the **exam** from my **Data Structures and Algorithms** course. It was a challenging yet rewarding subject that required a great deal of effort to fully grasp.
 
 ## Learning Experience
 
