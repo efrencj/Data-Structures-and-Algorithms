@@ -1,0 +1,50 @@
+Ronda dels enamorats s/n
+2
+55.0
+0
+Carrer del mar 33, Badalona
+3
+72.5
+2
+Agropecuaria del Vallès
+787777
+NO
+Fermí Fonoll Fuster
+78789789
+YES
+Carrer del Bon Repòs 104 Igualada
+4
+99.2
+2
+Carles Cunill Cumalat
+14589634
+YES
+Habivuit SL
+85633
+NO
+Avinguda de les vinyes 77, Sant Feliu del Llobregat
+4
+102.3
+1
+Carme Cabrera Canela
+74123654
+YES
+Carrer de l'Esglèsia 1, Dosrius
+5
+124.1
+5
+Agropecuaria del Vallès
+787777
+NO
+Alicia Armenteres Amorós
+65471233
+YES
+Bibiana Bonig Bonveí
+458523369
+YES
+Eduard Espriu Estornell
+78778965
+YES
+Mariona Mercadé Marfà
+78964123
+YES
